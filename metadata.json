@@ -1,0 +1,6 @@
+{
+  "name": "CineKhmer - វេបសាយរឿងភាគ",
+  "description": "វេបសាយសម្រាប់ទស្សនា និងលក់វីដេអូរឿងភាគ ដោយឥតគិតថ្លៃ ៥ ភាគដំបូង និងបង់ប្រាក់តាម QR Code សម្រាប់ភាគបន្ត។",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
